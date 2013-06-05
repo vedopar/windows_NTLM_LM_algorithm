@@ -8,4 +8,5 @@ An implementation of windows NTLM algorithm and<br/>
 windows LM algorithm.<br/><br/>
 
 Dependent Libs:<br/>
+python 2.7<br/>
 pyDes 2.0.0
